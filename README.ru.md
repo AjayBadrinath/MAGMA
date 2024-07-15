@@ -1,7 +1,6 @@
 ## гост (МАГМА) шифр ( ГОСТ МАГМА шифр )
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AjayBadrinath/Cryptography/blob/main/GOST(MAGMA)/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/AjayBadrinath/Cryptography/blob/main/GOST(MAGMA)/README.ru.md)
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AjayBadrinath/MAGMA/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/AjayBadrinath/MAGMA/blob/main/README.ru.md)
 ## История
 
 Это шифрование на основе шифра Фиестеля с использованием 64-битных блоков в соответствии со спецификациями, определенными стандартами Российского Союза.
